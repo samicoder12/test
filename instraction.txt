@@ -1,0 +1,2 @@
+*** let's setup color from figma file
+** let use the color
